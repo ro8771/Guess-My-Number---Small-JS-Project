@@ -1,7 +1,7 @@
 # Guess-My-Number---Small-JS-Project
 This is a small project that I made for Section 7 of Jonas Schmedtmann's JS course 
 
-(You may check the repo 'progress' at 27th November, 2023 where I have posted the context surrounding this project. I chart my coding/learning expeditions on that repo's ReadMe)
+(You may check the repo 'Progress' at 27th November, 2023 where I have posted the context surrounding this project. I chart my coding/learning expeditions on that repo's ReadMe)
 
 In section 7 of the course, Jonas began teaching DOM manipulation. He showed the final state of a small project that he'd build for teaching DOM.
 Before seeing his code, I took it as an exercise to build the project by myself. I did so successfully and have created this repo for it. 
